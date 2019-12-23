@@ -1,7 +1,7 @@
 # Foundations_of_Statistics
 ### Coursework for introductory statistics at UT Austin.
 
-This repository reflects work completed for two statistics courses offered by the University of Texas, Austin.  The two courses cover introductory undergraduate statistics (https://stat.utexas.edu/undergraduate/courses-undergraduate), with an emphasis on modeling. Labs and exercises were completed using the statistical software package R.
+This repository reflects work completed for two statistics courses offered by the University of Texas, Austin.  The two courses cover [introductory undergraduate statistics](https://stat.utexas.edu/undergraduate/courses-undergraduate), with an emphasis on modeling. Labs and exercises were completed using the statistical software package R.
 
 
 <b>Syllabus: First Term</b>
